@@ -1,0 +1,17 @@
+.placehold{
+	width: 20% !important;
+	height: auto;
+}
+h1{
+	margin-top: 6%;
+}
+.break{
+	height: 1px;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px 0.2% 0.2% 5px;
+}
+.row{
+	max-height: 100px !important;
+	height: 100%;
+}

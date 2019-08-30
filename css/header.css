@@ -1,0 +1,11 @@
+
+nav{
+
+}
+nav #logo{
+	width: 10%!important;
+	height: auto;
+}
+nav form{
+	margin-left: 75%;
+}
